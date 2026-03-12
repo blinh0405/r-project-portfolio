@@ -1,2 +1,2 @@
 This is a few of the R projects that I can find on my laptop. There are a few visualization as well as regression testings in these projects. I am most proud of my Final Project which I did with a public data of the world population using Google Data Search. 
-I also sneak in my Stata projects, which is filled with lots of regressional testings and stata simple graphs too. 
+I also sneak in my Stata projects, which is filled with lots of regressional testings and stata simple graphs too. There is also a cool Summary of Regression Results Excel Table at the end of the 5 models I generated from the testings.
